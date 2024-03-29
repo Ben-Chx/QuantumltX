@@ -1,0 +1,14 @@
+# 自用分流
+# ↓视频网站屏蔽国外ip
+host-suffix,freeok.vip
+# ↓解决翻译软件Papago代理时不可用
+host,apis.naver.com
+# ↓解决游戏TWD NML代理时不可用
+host-suffix,drillerservices.com
+host,ta.decagames.com
+host-suffix,cloud.unity3d.com
+host-suffix,cloudfront.net
+# ↓可能有用？支付宝内生活缴费不可用
+host-suffix,mobilegw.alipay.com
+# ↓IPA商店
+host,ipa.store
