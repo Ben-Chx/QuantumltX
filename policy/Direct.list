@@ -12,3 +12,5 @@ host-suffix,cloudfront.net
 host-suffix,mobilegw.alipay.com
 # ↓IPA商店
 host,ipa.store
+# ↓传输文件
+host,snapdrop.net
