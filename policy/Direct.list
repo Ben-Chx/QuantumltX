@@ -15,4 +15,4 @@ host,ipa.store
 # ↓传输文件
 host,snapdrop.net
 # ↓微信小程序
-host-suffix,szextshort.weixin.qq.com
+host-suffix,weixin.qq.com
