@@ -1,3 +1,0 @@
-# 自用分流-拒连
-# 去除拦截100广告
-host, ntb.lanjie100.com, reject

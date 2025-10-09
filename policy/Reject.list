@@ -1,0 +1,4 @@
+# 自用分流-拒连
+host, ntb.lanjie100.com, reject
+host-suffix, u3.ucweb.com, reject
+host, amdc.m.taobao.com, reject
