@@ -1,15 +1,16 @@
 # ===== Age of Empires Mobile 强制日本 =====
-DOMAIN,t2-service-forwarding.vasdgame.com
-DOMAIN,t2-service-forwarding.native.qq.com
-DOMAIN,na1.centauriglobal.com
-DOMAIN,reportna1.centauriglobal.com
-DOMAIN,sg.msdkfaas.com
-DOMAIN,sg.tdatamaster.com
-DOMAIN,title.mgt.xboxlive.com
+DOMAIN,t2-service-forwarding.vasdgame.com,日本IEPL
+DOMAIN,t2-service-forwarding.native.qq.com,日本IEPL
+DOMAIN,na1.centauriglobal.com,日本IEPL
+DOMAIN,reportna1.centauriglobal.com,日本IEPL
+DOMAIN,sg.msdkfaas.com,日本IEPL
+DOMAIN,sg.tdatamaster.com,日本IEPL
+DOMAIN,title.mgt.xboxlive.com,日本IEPL
 # 后段绑定
-DOMAIN-SUFFIX,playfabapi.com
-DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,playfabapi.com,日本IEPL
+DOMAIN-SUFFIX,azureedge.net,日本IEPL
+DOMAIN-SUFFIX,akamaized.net,日本IEPL
+DOMAIN-SUFFIX,cloudfront.net,日本IEPL
+DOMAIN-SUFFIX,xboxlive.com,日本IEPL
+DOMAIN-SUFFIX,microsoft.com,日本IEPL
+
