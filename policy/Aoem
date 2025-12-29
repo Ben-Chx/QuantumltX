@@ -1,8 +1,8 @@
 # ===== Age of Empires Mobile 强制日本 =====
 DOMAIN,t2-service-forwarding.vasdgame.com
 DOMAIN,t2-service-forwarding.native.qq.com
-DOMAIN,na1.centauriglobal.com,JP_ONLY
-DOMAIN,reportna1.centauriglobal.com,JP_ONLY
-DOMAIN,sg.msdkfaas.com,JP_ONLY
-DOMAIN,sg.tdatamaster.com,JP_ONLY
-DOMAIN,title.mgt.xboxlive.com,JP_ONLY
+DOMAIN,na1.centauriglobal.com
+DOMAIN,reportna1.centauriglobal.com
+DOMAIN,sg.msdkfaas.com
+DOMAIN,sg.tdatamaster.com
+DOMAIN,title.mgt.xboxlive.com
